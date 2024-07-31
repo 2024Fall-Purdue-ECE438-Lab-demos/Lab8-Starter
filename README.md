@@ -1,4 +1,4 @@
-# Lab 5b: Digital Filter Design (Week 2)
+# Lab 8: Digital Filter Design (Week 2)
 
 ## Getting Started
 
